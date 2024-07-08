@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Venom&color=gradient&text=%20Seltol%20Github!&fontColor=000000&stroke=87CEEB&height=300&fontSize=100&textBg=false)
+![header](https://capsule-render.vercel.app/api?type=Venom&color=gradient&text=%20Seltol's%20Github!&fontColor=000000&stroke=87CEEB&height=300&fontSize=100&textBg=false)
 [![Seltol's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seltol)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
